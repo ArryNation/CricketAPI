@@ -37,3 +37,5 @@ This endpoint will return ball by ball commentary of {matchID}. <br>
 # Heroku
   ```http://cricketapi.herokuapp.com/{endpoint}```<br>
   eg. ```http://cricketapi.herokuapp.com/getMatches```
+
+[![Run on Repl.it](https://repl.it/badge/github/dynamitechetan/CricketAPI)](https://repl.it/github/dynamitechetan/CricketAPI)
